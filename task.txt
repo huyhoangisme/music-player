@@ -1,0 +1,13 @@
+1. Build html, css
+2. Config music player
+    - render bài hát ->OK
+    - Xử lí seek ->OK
+    - Xử lí vùng điều khiển -> OK
+    - Chọn bài hát khi click vào
+    - Hiện thị thời gian bài hát->OK
+    - Scroll into active song->OK
+    - Chưa xử lid thuật toán để khi random không bị lặp bài hát
+    đã viết trước đó.
+
+
+    https://happy-noyce-8bbb21.netlify.app/
